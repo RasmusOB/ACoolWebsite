@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
 
 body {
+    margin: 1em;
+    background-color: antiquewhite;
+}
+
+.header {
+    font-size: 120%;
     font-family: 'Monofett', cursive;
+    color: #000;
+    background-color: aqua;
+    padding: 0.5em 2em;
+    border-radius: 1em 1px;
+    width: fit-content;
 }
